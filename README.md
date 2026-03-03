@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amol23
-- 👀 I’m interested in Linux, networking, information security...
+- 👀 I’m interested in Linux, networking, information security, Vide coding, Agentic AI
 - 🌱 I’m currently learning performance tuning on Linux...
 
 
